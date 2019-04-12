@@ -1,0 +1,11 @@
+[package]
+name = "mandelbrot"
+version = "0.1.0"
+authors = ["Soomin Kimu <soominkimu@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+crossbeam = "0.2.8"
+image = "0.13.0"
+num = "0.1.27"
+
